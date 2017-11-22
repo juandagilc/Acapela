@@ -1,0 +1,2 @@
+*.fzpz filter=lfs diff=lfs merge=lfs -text
+*.fzz filter=lfs diff=lfs merge=lfs -text
