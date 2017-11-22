@@ -18,6 +18,9 @@ This repository includes the next files:
 | Acapela 1.0.0 Dovetailed.skp | Box with dovetails          |
 | Acapela 1.0.0.svg/.pdf       | Files for laser cutter      |
 
+# Clone
+This project has been initialized as LFS (Large File Storage) repository. Before cloning, please install the [LFS git extension](https://github.com/git-lfs/git-lfs/wiki/Installation), so all the binary files are automatically downloaded for you.  
+
 # Why?
 I decided to build Acapela to be able to prototype and test my audio programs with Bela in a more portable way anywhere (e.g. on the tiny tables of my favourite coffee house, on the train going to work, etc.) and to avoid carrying hairy circuits made on a breadboard with jumper cables and noisy sensors that disconnect easily. The potentiometers in Acapela can simulate any sensor to be replaced later on a specific product, or they can just be the controls of the final product (e.g. a guitar pedal, a synth).  
 
